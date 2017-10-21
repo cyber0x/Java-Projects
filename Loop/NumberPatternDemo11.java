@@ -24,3 +24,9 @@ public class NumberPatternDemo11 {
 		}
 }
 
+//output
+*
+* *
+* * *
+* * * *
+* * * * *
