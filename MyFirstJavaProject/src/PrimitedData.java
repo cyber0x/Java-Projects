@@ -1,0 +1,5 @@
+
+class PrimitedData {
+	public class
+
+}
